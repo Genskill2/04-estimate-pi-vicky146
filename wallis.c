@@ -23,7 +23,7 @@ int main(void) {
     }
   }
 }
-float wallis_pi(int j)
+ float wallis_pi(int j)
 {
   float i;
   float pi=4;
